@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "购药助手",
+      "hasCanvas": false,
+      "bodyTextLen": 437,
+      "bodyTextHash": "e98bb117a1f1251aa65f43330584eef11707ec541e659f1f416f0e27699d0499",
+      "bodyTextPrefix": "购药助手 爸爸 天数 30 60 90 180 日期 重置 药名 用量 次 片 每盒 片 天数 剩余 片 需补片数 需购盒数 花",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "购药助手",
+      "hasCanvas": false,
+      "bodyTextLen": 437,
+      "bodyTextHash": "e98bb117a1f1251aa65f43330584eef11707ec541e659f1f416f0e27699d0499",
+      "bodyTextPrefix": "购药助手 爸爸 天数 30 60 90 180 日期 重置 药名 用量 次 片 每盒 片 天数 剩余 片 需补片数 需购盒数 花",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND NOTE: no custom public/og.jpg — the platform will serve the og.grok.me placeholder. Custom cards are the default for games of every kind (DOM board/word games included), whimsical apps, creative tools, and brand-forward pages — only plain utilities (converters, CRUD trackers, admin dashboards) keep the placeholder. If this app is not a plain utility, finish the brand-asset pass per /workspace/.grok/skills/og/SKILL.md."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
